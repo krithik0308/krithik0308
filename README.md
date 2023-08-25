@@ -11,6 +11,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="29" alt="python logo"  />
   <img width="15" />
@@ -29,9 +31,7 @@
 
 ###
 
-<img align="right" height="130" src="https://i.imgflip.com/7wxxzd.gif"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <a href="https://stackoverflow.com/users/22100676/krithik" target="_blank">
@@ -53,6 +53,12 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="139" src="https://i.imgflip.com/7wxxzd.gif"  />
 
 ###
 
